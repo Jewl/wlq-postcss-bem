@@ -1,0 +1,22 @@
+{
+  "name": "wlq-postcss-bem",
+  "version": "1.0.0",
+  "description": "postcss plugin for bem with webpack@4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "bem",
+    "webpack"
+  ],
+  "author": "半指",
+  "license": "ISC",
+  "devDependencies": {
+    "util": "^0.11.1"
+  },
+  "dependencies": {
+    "postcss": "^5.0.8"
+  }
+}
